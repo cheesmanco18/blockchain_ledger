@@ -1,3 +1,5 @@
+*Code source is located in Starter_Code > Instructions > Starter_Code > pychain file
+
 A blockchain-based ledger system, complete with a user-friendly web interface. This ledger will allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger
 
 # block contents:
